@@ -26,11 +26,11 @@ For the second task, it is needed to place a 3d object(e.g., cube, cylinder, etc
 └── Readme.md
 ```
 
-<p align="center"><img src="https://user-images.githubusercontent.com/90580636/146698668-76eb4b4e-37b8-44b1-b381-a4f9eb44bd9a.png" /></p>
 <p align="center">Image thresholding</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/90580636/146698668-76eb4b4e-37b8-44b1-b381-a4f9eb44bd9a.png" /></p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/90580636/146698708-8d9c5dfb-7fbf-4243-8095-4d4a29a22db3.png" /></p>
 <p align="center">Object detection</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/90580636/146698708-8d9c5dfb-7fbf-4243-8095-4d4a29a22db3.png" /></p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/90580636/146698767-9539f4b8-d97a-48fd-89ff-52a895de8deb.png" /></p>
 <p align="center">Center estimation</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/90580636/146698767-9539f4b8-d97a-48fd-89ff-52a895de8deb.png" /></p>
