@@ -1,4 +1,4 @@
-## Stereo-Vision
+## Stereo-Vision-8-Point-Algorithm-and-Depth-Estimation
 In this repository, 8-point algorithm is used to find the fundamental matrix based on SVD. Disparity map is generated from left and right images. In addition, RealSense depth camera 435i is used to estimate object center depth. Image thresholding and object detection are implemented. It is apart of Assignment3 in Sensing, Perception and Actuation course for ROCV master's program at Innopolis University.
 
 ### Task description
